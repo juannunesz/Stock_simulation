@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        //Local onde o ts vai salvar meus arquivos convertidos
+        "outDir": "dist/js",
+        "target": "ES6",
+        "noEmitOnError": true,
+        "allowJs": true,
+        "noImplicitAny": true
+    },
+    "include": ["app/**/*"]
+}
